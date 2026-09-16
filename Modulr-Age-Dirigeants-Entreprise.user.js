@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Modulr - Âge des dirigeants sur fiche entreprise
 // @namespace    https://github.com/BiggerThanTheMall/tampermonkey-ltoa
-// @version      2.1
+// @version      2.2
 // @description  Affiche automatiquement l'âge et la date de naissance de TOUS les dirigeants sur les fiches entreprises Modulr
 // @author       LTOA Assurances
 // @match        https://courtage.modulr.fr/fr/scripts/clients/clients_card.php*
@@ -9,8 +9,8 @@
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
 // @connect      courtage.modulr.fr
-// @updateURL    https://raw.githubusercontent.com/BiggerThanTheMall/tampermonkey-ltoa/main/Modulr-Age-Dirigeants-Entreprise.user.js
-// @downloadURL  https://raw.githubusercontent.com/BiggerThanTheMall/tampermonkey-ltoa/main/Modulr-Age-Dirigeants-Entreprise.user.js
+// @updateURL    https://raw.githubusercontent.com/BiggerThanTheMall/-l-ge-et-la-date-de-naissance-de-TOUS-les-dirigeants/main/Modulr-Age-Dirigeants-Entreprise.user.js
+// @downloadURL  https://raw.githubusercontent.com/BiggerThanTheMall/-l-ge-et-la-date-de-naissance-de-TOUS-les-dirigeants/main/Modulr-Age-Dirigeants-Entreprise.user.js
 // ==/UserScript==
 
 (function() {
